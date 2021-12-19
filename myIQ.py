@@ -30,12 +30,6 @@ API.change_balance(changeBs) # Vai usar dinheiro FICTICIO OU REAL = PRACTICE / R
 global valorPR
 valorPR = input("Escolha o valor de aposta (Minimo pratica-1 Minimo para real-2): ")
 
-ab = 5
-abx = 5
-abq = 5
-abqx = 5
-abqw = 5
-abqwy = 5
 
 vitoria = 0
 vitoriaV = 0
