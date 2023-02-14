@@ -2,7 +2,7 @@ from iqoptionapi.stable_api import IQ_Option
 import time, json
 from datetime import datetime
 from dateutil import tz
-from login import email,senha
+#foi excluida a linha de importação de e-mail e senha.
 
 
 
